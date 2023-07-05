@@ -63,10 +63,6 @@ p{
   top:40px;
 }
 
-.mountain{
-  margin-bottom: -5px;
-}
-
 .profile-desc{
   color: #40514E;
 }
@@ -85,16 +81,10 @@ p{
   margin: auto;
 }
 
-.skill-row1{
+.skill-row{
   width:50%;
   margin: 80px auto 30px auto;
   text-align: left;
-}
-
-.skill-row2{
-  width:50%;
-  margin: 80px auto 30px auto;
-  text-align: right;
 }
 
 .develop{
